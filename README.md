@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreyWilk aka Alexander
 - 👀 I’m interested in gaming/gaming culture, automation and wood carving
-- 🌱 I’m currently learning Rust
+- 🌱 Currently I'm trying to find a new project
 - ✨ These repo's are my own small/random projects
 - 💞️ Love cheese (and Cheese Crunchers)
 - 🏢 Platform Engineer for Azure @ Region Skåne
