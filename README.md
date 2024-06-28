@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - ✨ These repo's are my own small/random projects
 - 💞️ Love cheese (and Cheese Crunchers)
-- 🏢 Senior consultant @ Atea Sverige AB
+- 🏢 Platform Engineer for Azure @ Region Skåne
 - 📫 [@LinkedIn](https://www.linkedin.com/in/alexanderbertz/) 
 
 <!---
